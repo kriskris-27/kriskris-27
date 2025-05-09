@@ -57,10 +57,6 @@
 
 ---
 
-# 🐍 My Contributions
-<p align="center">
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/kriskris-27/kriskris-27/output/github-contribution-grid-snake.svg" />
-</p>
 
 ---
 
