@@ -29,7 +29,7 @@
 ---
 
 ## 👨‍💻 About Me
-- 🔭 I’m currently working on a **Cafe Menu to Billing Web App**.
+- 🔭 I’m currently working on a **LMS**.
 - 🌱 I’m currently learning **Redux** and exploring **AWS** and **MERN Stack** concepts.
 - 👨‍💻 All of my projects are available at [**My Portfolio**](https://final-portfolio-ten-lac.vercel.app/#home)
 - 📫 Reach me at **krishnakumars0101@gmail.com**
