@@ -52,7 +52,7 @@
 
 # 🛠️ Languages and Tools
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,tailwind,mui,nodejs,express,mongodb,mysql,git,github,figmac,python,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,tailwind,mui,nodejs,express,mongodb,mysql,git,github,figmac,docker,python,vscode" />
 </div>
 
 ---
