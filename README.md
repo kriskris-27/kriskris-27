@@ -70,7 +70,7 @@
 ---
 
 # 🎯 Let's keep growing together 🚀
-> *“Code never lies, comments sometimes do.”* — Ship confidently!  
+> *“Learning by doing”*!  
 ---
 
 
