@@ -33,7 +33,7 @@
 - 🌱 I’m currently learning **Redux** and exploring **AWS** and **MERN Stack** concepts.
 - 👨‍💻 All of my projects are available at [**My Portfolio**](https://final-portfolio-ten-lac.vercel.app/#home)
 - 📫 Reach me at **krishnakumars0101@gmail.com**
-- 📄 [Know about my experiences](https://drive.google.com/file/d/1cogvgo4uWU6g5CFEy6w6K5M-B5fiZgea/view?usp=sharing)
+- 📄 [Know about my experiences](https://drive.google.com)
 
 
 ---
