@@ -29,10 +29,10 @@
 ---
 
 ## 👨‍💻 About Me
-- 🔭 open to collaborat or any roles in 
+- 🔭 open to collaborate or any dev roles
 - 🌱 I’m currently learning **GCP**
 - 📫 Reach me at **krishnakumars0101@gmail.com**
-- 📄 [Know about my experiences](https://drive.google.com)
+- 
 
 
 ---
